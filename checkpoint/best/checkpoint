@@ -1,0 +1,2 @@
+model_checkpoint_path: "randwire_cifar10"
+all_model_checkpoint_paths: "randwire_cifar10"

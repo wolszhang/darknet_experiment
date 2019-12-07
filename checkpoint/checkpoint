@@ -1,0 +1,4 @@
+model_checkpoint_path: "randwire_cifar10-1501"
+all_model_checkpoint_paths: "randwire_cifar10-501"
+all_model_checkpoint_paths: "randwire_cifar10-1001"
+all_model_checkpoint_paths: "randwire_cifar10-1501"
