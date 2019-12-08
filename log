@@ -1,0 +1,1007 @@
+WS:
+[ epoch 1/100 ]-> train_acc: 0.3830 loss: 914.1602 val_acc: 0.4037 loss: 180.7375
+best:  0.0 
+current:  0.4037
+save checkpoint
+[ epoch 2/100 ]-> train_acc: 0.5030 loss: 794.3842 val_acc: 0.4520 loss: 186.6740
+best:  0.4037 
+current:  0.452
+save checkpoint
+[ epoch 3/100 ]-> train_acc: 0.5602 loss: 739.8192 val_acc: 0.4627 loss: 180.3730
+best:  0.452 
+current:  0.4627
+save checkpoint
+[ epoch 4/100 ]-> train_acc: 0.5984 loss: 701.9548 val_acc: 0.5709 loss: 154.7710
+best:  0.4627 
+current:  0.5709
+save checkpoint
+[ epoch 5/100 ]-> train_acc: 0.6209 loss: 674.4072 val_acc: 0.5168 loss: 172.3838
+best:  0.5709 
+current:  0.5168
+[ epoch 6/100 ]-> train_acc: 0.6501 loss: 651.3329 val_acc: 0.4519 loss: 207.1840
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+best:  0.5709 
+current:  0.4519
+[ epoch 7/100 ]-> train_acc: 0.6711 loss: 627.5584 val_acc: 0.6673 loss: 131.1849
+best:  0.5709 
+current:  0.6673
+save checkpoint
+[ epoch 8/100 ]-> train_acc: 0.6895 loss: 607.3376 val_acc: 0.5743 loss: 152.4479
+best:  0.6673 
+current:  0.5743
+[ epoch 9/100 ]-> train_acc: 0.7005 loss: 595.3264 val_acc: 0.6810 loss: 125.7017
+best:  0.6673 
+current:  0.681
+save checkpoint
+[ epoch 10/100 ]-> train_acc: 0.7147 loss: 580.2090 val_acc: 0.6617 loss: 133.7190
+best:  0.681 
+current:  0.6617
+[ epoch 11/100 ]-> train_acc: 0.7256 loss: 569.7349 val_acc: 0.6967 loss: 123.0789
+best:  0.681 
+current:  0.6967
+save checkpoint
+[ epoch 12/100 ]-> train_acc: 0.7334 loss: 560.1025 val_acc: 0.7057 loss: 121.3061
+best:  0.6967 
+current:  0.7057
+save checkpoint
+[ epoch 13/100 ]-> train_acc: 0.7393 loss: 551.9717 val_acc: 0.7007 loss: 122.4254
+best:  0.7057 
+current:  0.7007
+[ epoch 14/100 ]-> train_acc: 0.7472 loss: 545.3071 val_acc: 0.7170 loss: 116.1489
+best:  0.7057 
+current:  0.717
+save checkpoint
+[ epoch 15/100 ]-> train_acc: 0.7541 loss: 538.2478 val_acc: 0.7215 loss: 118.8086
+best:  0.717 
+current:  0.7215
+save checkpoint
+[ epoch 16/100 ]-> train_acc: 0.7595 loss: 532.3041 val_acc: 0.7396 loss: 111.2547
+best:  0.7215 
+current:  0.7396
+save checkpoint
+[ epoch 17/100 ]-> train_acc: 0.7651 loss: 525.5386 val_acc: 0.7222 loss: 116.3968
+best:  0.7396 
+current:  0.7222
+[ epoch 18/100 ]-> train_acc: 0.7689 loss: 521.3424 val_acc: 0.7139 loss: 119.1871
+best:  0.7396 
+current:  0.7139
+[ epoch 19/100 ]-> train_acc: 0.7725 loss: 516.0660 val_acc: 0.6997 loss: 123.1213
+best:  0.7396 
+current:  0.6997
+[ epoch 20/100 ]-> train_acc: 0.7757 loss: 512.3507 val_acc: 0.7359 loss: 113.2445
+best:  0.7396 
+current:  0.7359
+[ epoch 21/100 ]-> train_acc: 0.7819 loss: 506.2046 val_acc: 0.7504 loss: 109.5136
+best:  0.7396 
+current:  0.7504
+save checkpoint
+[ epoch 22/100 ]-> train_acc: 0.7828 loss: 504.6228 val_acc: 0.7411 loss: 113.3428
+best:  0.7504 
+current:  0.7411
+[ epoch 23/100 ]-> train_acc: 0.7855 loss: 502.8098 val_acc: 0.7362 loss: 116.2945
+best:  0.7504 
+current:  0.7362
+[ epoch 24/100 ]-> train_acc: 0.7905 loss: 495.5993 val_acc: 0.7209 loss: 121.5171
+best:  0.7504 
+current:  0.7209
+[ epoch 25/100 ]-> train_acc: 0.7949 loss: 492.3590 val_acc: 0.7657 loss: 108.0703
+best:  0.7504 
+current:  0.7657
+save checkpoint
+[ epoch 26/100 ]-> train_acc: 0.7946 loss: 491.3431 val_acc: 0.7276 loss: 117.4741
+best:  0.7657 
+current:  0.7276
+[ epoch 27/100 ]-> train_acc: 0.8009 loss: 487.1762 val_acc: 0.7330 loss: 114.1642
+best:  0.7657 
+current:  0.733
+[ epoch 28/100 ]-> train_acc: 0.8008 loss: 484.8463 val_acc: 0.7405 loss: 114.2896
+best:  0.7657 
+current:  0.7405
+[ epoch 29/100 ]-> train_acc: 0.8007 loss: 483.9620 val_acc: 0.7521 loss: 107.5829
+best:  0.7657 
+current:  0.7521
+[ epoch 30/100 ]-> train_acc: 0.8043 loss: 479.6276 val_acc: 0.7596 loss: 108.4526
+best:  0.7657 
+current:  0.7596
+[ epoch 31/100 ]-> train_acc: 0.8064 loss: 479.1095 val_acc: 0.7291 loss: 118.1914
+best:  0.7657 
+current:  0.7291
+[ epoch 32/100 ]-> train_acc: 0.8117 loss: 473.8237 val_acc: 0.7245 loss: 119.9286
+best:  0.7657 
+current:  0.7245
+[ epoch 33/100 ]-> train_acc: 0.8115 loss: 472.4985 val_acc: 0.7698 loss: 107.7349
+best:  0.7657 
+current:  0.7698
+save checkpoint
+[ epoch 34/100 ]-> train_acc: 0.8131 loss: 471.0939 val_acc: 0.7774 loss: 104.7056
+best:  0.7698 
+current:  0.7774
+save checkpoint
+[ epoch 35/100 ]-> train_acc: 0.8149 loss: 468.8776 val_acc: 0.7369 loss: 114.8497
+best:  0.7774 
+current:  0.7369
+[ epoch 36/100 ]-> train_acc: 0.8163 loss: 467.8406 val_acc: 0.7293 loss: 116.7256
+best:  0.7774 
+current:  0.7293
+[ epoch 37/100 ]-> train_acc: 0.8200 loss: 464.2902 val_acc: 0.7661 loss: 109.2091
+best:  0.7774 
+current:  0.7661
+[ epoch 38/100 ]-> train_acc: 0.8189 loss: 464.8283 val_acc: 0.7640 loss: 107.6454
+best:  0.7774 
+current:  0.764
+[ epoch 39/100 ]-> train_acc: 0.8196 loss: 463.4236 val_acc: 0.7436 loss: 112.4279
+best:  0.7774 
+current:  0.7436
+[ epoch 40/100 ]-> train_acc: 0.8231 loss: 461.1268 val_acc: 0.7680 loss: 107.2736
+best:  0.7774 
+current:  0.768
+[ epoch 41/100 ]-> train_acc: 0.8234 loss: 459.0562 val_acc: 0.7662 loss: 109.7420
+best:  0.7774 
+current:  0.7662
+[ epoch 42/100 ]-> train_acc: 0.8243 loss: 457.6544 val_acc: 0.7583 loss: 108.4720
+best:  0.7774 
+current:  0.7583
+[ epoch 43/100 ]-> train_acc: 0.8263 loss: 456.0980 val_acc: 0.7771 loss: 106.8777
+best:  0.7774 
+current:  0.7771
+[ epoch 44/100 ]-> train_acc: 0.8278 loss: 455.3454 val_acc: 0.7568 loss: 111.2809
+best:  0.7774 
+current:  0.7568
+[ epoch 45/100 ]-> train_acc: 0.8271 loss: 454.2590 val_acc: 0.7755 loss: 105.2101
+best:  0.7774 
+current:  0.7755
+[ epoch 46/100 ]-> train_acc: 0.8327 loss: 450.3016 val_acc: 0.7819 loss: 105.3224
+best:  0.7774 
+current:  0.7819
+save checkpoint
+[ epoch 47/100 ]-> train_acc: 0.8303 loss: 452.1670 val_acc: 0.7874 loss: 103.1523
+best:  0.7819 
+current:  0.7874
+save checkpoint
+[ epoch 48/100 ]-> train_acc: 0.8318 loss: 449.8761 val_acc: 0.7663 loss: 107.7743
+best:  0.7874 
+current:  0.7663
+[ epoch 49/100 ]-> train_acc: 0.8330 loss: 448.3362 val_acc: 0.7759 loss: 103.8534
+best:  0.7874 
+current:  0.7759
+[ epoch 50/100 ]-> train_acc: 0.8320 loss: 448.5092 val_acc: 0.7792 loss: 104.9271
+best:  0.7874 
+current:  0.7792
+[ epoch 51/100 ]-> train_acc: 0.8799 loss: 398.2668 val_acc: 0.8479 loss: 88.4326
+best:  0.7874 
+current:  0.8479
+save checkpoint
+[ epoch 52/100 ]-> train_acc: 0.8943 loss: 383.0597 val_acc: 0.8514 loss: 87.8295
+best:  0.8479 
+current:  0.8514
+save checkpoint
+[ epoch 53/100 ]-> train_acc: 0.9009 loss: 376.9679 val_acc: 0.8555 loss: 86.8283
+best:  0.8514 
+current:  0.8555
+save checkpoint
+[ epoch 54/100 ]-> train_acc: 0.9057 loss: 371.8014 val_acc: 0.8515 loss: 87.7724
+best:  0.8555 
+current:  0.8515
+[ epoch 55/100 ]-> train_acc: 0.9079 loss: 368.9830 val_acc: 0.8526 loss: 86.9918
+best:  0.8555 
+current:  0.8526
+[ epoch 56/100 ]-> train_acc: 0.9106 loss: 365.8493 val_acc: 0.8536 loss: 87.9130
+best:  0.8555 
+current:  0.8536
+[ epoch 57/100 ]-> train_acc: 0.9133 loss: 363.4039 val_acc: 0.8547 loss: 87.8321
+best:  0.8555 
+current:  0.8547
+[ epoch 58/100 ]-> train_acc: 0.9146 loss: 361.1165 val_acc: 0.8553 loss: 87.1115
+best:  0.8555 
+current:  0.8553
+[ epoch 59/100 ]-> train_acc: 0.9166 loss: 359.6723 val_acc: 0.8557 loss: 86.9604
+best:  0.8555 
+current:  0.8557
+save checkpoint
+[ epoch 60/100 ]-> train_acc: 0.9160 loss: 357.8314 val_acc: 0.8518 loss: 88.2826
+best:  0.8557 
+current:  0.8518
+[ epoch 61/100 ]-> train_acc: 0.9195 loss: 355.6136 val_acc: 0.8578 loss: 87.1163
+best:  0.8557 
+current:  0.8578
+save checkpoint
+[ epoch 62/100 ]-> train_acc: 0.9225 loss: 353.0483 val_acc: 0.8525 loss: 88.6520
+best:  0.8578 
+current:  0.8525
+[ epoch 63/100 ]-> train_acc: 0.9211 loss: 353.9203 val_acc: 0.8595 loss: 86.7797
+best:  0.8578 
+current:  0.8595
+save checkpoint
+[ epoch 64/100 ]-> train_acc: 0.9248 loss: 350.8481 val_acc: 0.8546 loss: 88.4490
+best:  0.8595 
+current:  0.8546
+[ epoch 65/100 ]-> train_acc: 0.9265 loss: 349.1033 val_acc: 0.8500 loss: 89.0822
+best:  0.8595 
+current:  0.85
+[ epoch 66/100 ]-> train_acc: 0.9259 loss: 348.6010 val_acc: 0.8551 loss: 88.2542
+best:  0.8595 
+current:  0.8551
+[ epoch 67/100 ]-> train_acc: 0.9278 loss: 347.4749 val_acc: 0.8536 loss: 88.3592
+best:  0.8595 
+current:  0.8536
+[ epoch 68/100 ]-> train_acc: 0.9291 loss: 345.8853 val_acc: 0.8557 loss: 88.7580
+best:  0.8595 
+current:  0.8557
+[ epoch 69/100 ]-> train_acc: 0.9318 loss: 343.2361 val_acc: 0.8551 loss: 87.7056
+best:  0.8595 
+current:  0.8551
+[ epoch 70/100 ]-> train_acc: 0.9292 loss: 344.8269 val_acc: 0.8543 loss: 88.4981
+best:  0.8595 
+current:  0.8543
+[ epoch 71/100 ]-> train_acc: 0.9327 loss: 341.5239 val_acc: 0.8481 loss: 90.4900
+best:  0.8595 
+current:  0.8481
+[ epoch 72/100 ]-> train_acc: 0.9318 loss: 342.5139 val_acc: 0.8512 loss: 88.9652
+best:  0.8595 
+current:  0.8512
+[ epoch 73/100 ]-> train_acc: 0.9346 loss: 340.0585 val_acc: 0.8565 loss: 88.5436
+best:  0.8595 
+current:  0.8565
+[ epoch 74/100 ]-> train_acc: 0.9352 loss: 338.8336 val_acc: 0.8491 loss: 89.6080
+best:  0.8595 
+current:  0.8491
+[ epoch 75/100 ]-> train_acc: 0.9360 loss: 338.6932 val_acc: 0.8514 loss: 89.6031
+best:  0.8595 
+current:  0.8514
+[ epoch 76/100 ]-> train_acc: 0.9420 loss: 331.8316 val_acc: 0.8596 loss: 87.3480
+best:  0.8595 
+current:  0.8596
+save checkpoint
+[ epoch 77/100 ]-> train_acc: 0.9462 loss: 328.4382 val_acc: 0.8608 loss: 87.2030
+best:  0.8596 
+current:  0.8608
+save checkpoint
+[ epoch 78/100 ]-> train_acc: 0.9474 loss: 327.1511 val_acc: 0.8616 loss: 87.2657
+best:  0.8608 
+current:  0.8616
+save checkpoint
+[ epoch 79/100 ]-> train_acc: 0.9469 loss: 327.3493 val_acc: 0.8622 loss: 86.8707
+best:  0.8616 
+current:  0.8622
+save checkpoint
+[ epoch 80/100 ]-> train_acc: 0.9481 loss: 326.3796 val_acc: 0.8624 loss: 87.2978
+best:  0.8622 
+current:  0.8624
+save checkpoint
+[ epoch 81/100 ]-> train_acc: 0.9504 loss: 325.4310 val_acc: 0.8623 loss: 87.0054
+best:  0.8624 
+current:  0.8623
+[ epoch 82/100 ]-> train_acc: 0.9495 loss: 325.3647 val_acc: 0.8627 loss: 86.9077
+best:  0.8624 
+current:  0.8627
+save checkpoint[ epoch 83/100 ]-> train_acc: 0.9497 loss: 325.0516 val_acc: 0.8633 loss: 87.0618
+best:  0.8627 
+current:  0.8633
+save checkpoint
+[ epoch 84/100 ]-> train_acc: 0.9497 loss: 325.2305 val_acc: 0.8612 loss: 87.2486
+best:  0.8633 
+current:  0.8612
+[ epoch 85/100 ]-> train_acc: 0.9501 loss: 324.6152 val_acc: 0.8641 loss: 87.1524
+best:  0.8633 
+current:  0.8641
+save checkpoint
+[ epoch 86/100 ]-> train_acc: 0.9495 loss: 325.2153 val_acc: 0.8628 loss: 87.3363
+best:  0.8641 
+current:  0.8628
+[ epoch 87/100 ]-> train_acc: 0.9511 loss: 323.8880 val_acc: 0.8638 loss: 87.2211
+best:  0.8641 
+current:  0.8638
+[ epoch 88/100 ]-> train_acc: 0.9507 loss: 323.9479 val_acc: 0.8614 loss: 87.3199
+best:  0.8641 
+current:  0.8614
+[ epoch 89/100 ]-> train_acc: 0.9518 loss: 323.3279 val_acc: 0.8627 loss: 87.2858
+best:  0.8641 
+current:  0.8627
+[ epoch 90/100 ]-> train_acc: 0.9512 loss: 322.4965 val_acc: 0.8642 loss: 87.3784
+best:  0.8641 
+current:  0.8642
+save checkpoint
+[ epoch 91/100 ]-> train_acc: 0.9506 loss: 323.9157 val_acc: 0.8630 loss: 87.3925
+best:  0.8642 
+current:  0.863
+[ epoch 92/100 ]-> train_acc: 0.9521 loss: 322.6814 val_acc: 0.8632 loss: 87.1815
+best:  0.8642 
+current:  0.8632
+[ epoch 93/100 ]-> train_acc: 0.9525 loss: 322.1317 val_acc: 0.8618 loss: 87.3368
+best:  0.8642 
+current:  0.8618
+[ epoch 94/100 ]-> train_acc: 0.9511 loss: 322.5295 val_acc: 0.8620 loss: 87.5850
+best:  0.8642 
+current:  0.862
+[ epoch 95/100 ]-> train_acc: 0.9528 loss: 322.0234 val_acc: 0.8634 loss: 87.2851
+best:  0.8642 
+current:  0.8634
+[ epoch 96/100 ]-> train_acc: 0.9523 loss: 322.0328 val_acc: 0.8625 loss: 87.4576
+best:  0.8642 
+current:  0.8625
+[ epoch 97/100 ]-> train_acc: 0.9518 loss: 323.0081 val_acc: 0.8644 loss: 87.1771
+best:  0.8642 
+current:  0.8644
+save checkpoint
+[ epoch 98/100 ]-> train_acc: 0.9531 loss: 321.6511 val_acc: 0.8645 loss: 87.0846
+best:  0.8644 
+current:  0.8645
+save checkpoint
+[ epoch 99/100 ]-> train_acc: 0.9524 loss: 321.7769 val_acc: 0.8619 loss: 87.0651
+best:  0.8645 
+current:  0.8619
+[ epoch 100/100 ]-> train_acc: 0.9518 loss: 321.3755 val_acc: 0.8617 loss: 87.4867
+best:  0.8645 
+current:  0.8617
+33417
+
+ER:
+amic library libcudnn.so.7
+[ epoch 1/100 ]-> train_acc: 0.3706 loss: 930.0180 val_acc: 0.3904 loss: 187.2120
+best:  0.0 
+current:  0.3904
+save checkpoint
+[ epoch 2/100 ]-> train_acc: 0.4905 loss: 807.5919 val_acc: 0.5077 loss: 163.0400
+best:  0.3904 
+current:  0.5077
+save checkpoint
+[ epoch 3/100 ]-> train_acc: 0.5524 loss: 747.2407 val_acc: 0.4922 loss: 167.5089
+best:  0.5077 
+current:  0.4922
+[ epoch 4/100 ]-> train_acc: 0.5891 loss: 711.0400 val_acc: 0.4097 loss: 191.6549
+best:  0.5077 
+current:  0.4097
+[ epoch 5/100 ]-> train_acc: 0.6164 loss: 680.4316 val_acc: 0.6377 loss: 132.0872
+best:  0.5077 
+current:  0.6377
+save checkpoint
+[ epoch 6/100 ]-> train_acc: 0.6435 loss: 654.8048 val_acc: 0.6400 loss: 134.5696
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+best:  0.6377 
+current:  0.64
+save checkpoint
+[ epoch 7/100 ]-> train_acc: 0.6671 loss: 631.4301 val_acc: 0.5699 loss: 155.2317
+best:  0.64 
+current:  0.5699
+[ epoch 8/100 ]-> train_acc: 0.6844 loss: 612.3945 val_acc: 0.6393 loss: 137.5199
+best:  0.64 
+current:  0.6393
+[ epoch 9/100 ]-> train_acc: 0.6988 loss: 598.3625 val_acc: 0.7001 loss: 119.7222
+best:  0.64 
+current:  0.7001
+save checkpoint
+[ epoch 10/100 ]-> train_acc: 0.7078 loss: 585.7103 val_acc: 0.7010 loss: 122.7491
+best:  0.7001 
+current:  0.701
+save checkpoint
+[ epoch 11/100 ]-> train_acc: 0.7192 loss: 575.1761 val_acc: 0.6862 loss: 124.5166
+best:  0.701 
+current:  0.6862
+[ epoch 12/100 ]-> train_acc: 0.7279 loss: 564.5942 val_acc: 0.6696 loss: 130.3790
+best:  0.701 
+current:  0.6696
+[ epoch 13/100 ]-> train_acc: 0.7368 loss: 556.2072 val_acc: 0.7185 loss: 117.2257
+best:  0.701 
+current:  0.7185
+save checkpoint
+[ epoch 14/100 ]-> train_acc: 0.7421 loss: 548.6674 val_acc: 0.7045 loss: 121.4232
+best:  0.7185 
+current:  0.7045
+[ epoch 15/100 ]-> train_acc: 0.7477 loss: 542.1294 val_acc: 0.7280 loss: 115.0587
+best:  0.7185 
+current:  0.728
+save checkpoint
+[ epoch 16/100 ]-> train_acc: 0.7548 loss: 534.4944 val_acc: 0.7298 loss: 114.3646
+best:  0.728 
+current:  0.7298
+save checkpoint
+[ epoch 17/100 ]-> train_acc: 0.7595 loss: 529.0890 val_acc: 0.7261 loss: 115.2066
+best:  0.7298 
+current:  0.7261
+[ epoch 18/100 ]-> train_acc: 0.7639 loss: 525.5057 val_acc: 0.6935 loss: 122.4278
+best:  0.7298 
+current:  0.6935
+[ epoch 19/100 ]-> train_acc: 0.7665 loss: 520.5332 val_acc: 0.7269 loss: 112.7942
+best:  0.7298 
+current:  0.7269
+[ epoch 20/100 ]-> train_acc: 0.7693 loss: 517.8618 val_acc: 0.7567 loss: 107.6450
+best:  0.7298 
+current:  0.7567
+save checkpoint
+[ epoch 21/100 ]-> train_acc: 0.7740 loss: 512.9861 val_acc: 0.7459 loss: 110.7948
+best:  0.7567 
+current:  0.7459
+[ epoch 22/100 ]-> train_acc: 0.7758 loss: 509.2441 val_acc: 0.7192 loss: 118.7862
+best:  0.7567 
+current:  0.7192
+[ epoch 23/100 ]-> train_acc: 0.7810 loss: 503.9401 val_acc: 0.7457 loss: 110.5213
+best:  0.7567 
+current:  0.7457
+[ epoch 24/100 ]-> train_acc: 0.7841 loss: 501.4306 val_acc: 0.7587 loss: 107.0560
+best:  0.7567 
+current:  0.7587
+save checkpoint
+[ epoch 25/100 ]-> train_acc: 0.7877 loss: 498.2985 val_acc: 0.7285 loss: 116.7964
+best:  0.7587 
+current:  0.7285
+[ epoch 26/100 ]-> train_acc: 0.7891 loss: 495.5502 val_acc: 0.7476 loss: 110.0534
+best:  0.7587 
+current:  0.7476
+[ epoch 27/100 ]-> train_acc: 0.7905 loss: 493.2270 val_acc: 0.6923 loss: 126.6116
+best:  0.7587 
+current:  0.6923
+[ epoch 28/100 ]-> train_acc: 0.7917 loss: 490.2892 val_acc: 0.7801 loss: 102.4898
+best:  0.7587 
+current:  0.7801
+save checkpoint
+[ epoch 29/100 ]-> train_acc: 0.7982 loss: 486.6283 val_acc: 0.7485 loss: 110.3393
+best:  0.7801 
+current:  0.7485
+[ epoch 30/100 ]-> train_acc: 0.7985 loss: 484.3825 val_acc: 0.7609 loss: 106.0499
+best:  0.7801
+current:  0.7609
+[ epoch 31/100 ]-> train_acc: 0.7973 loss: 483.7829 val_acc: 0.7521 loss: 109.0851
+best:  0.7801 
+current:  0.7521
+[ epoch 32/100 ]-> train_acc: 0.8024 loss: 480.5990 val_acc: 0.7113 loss: 119.5552
+best:  0.7801 
+current:  0.7113
+[ epoch 33/100 ]-> train_acc: 0.8059 loss: 478.1702 val_acc: 0.7835 loss: 100.6403
+best:  0.7801 
+current:  0.7835
+save checkpoint
+[ epoch 34/100 ]-> train_acc: 0.8045 loss: 478.0206 val_acc: 0.7660 loss: 107.0264
+best:  0.7835 
+current:  0.766
+[ epoch 35/100 ]-> train_acc: 0.8063 loss: 474.3979 val_acc: 0.7685 loss: 107.0965
+best:  0.7835 
+current:  0.7685
+[ epoch 36/100 ]-> train_acc: 0.8060 loss: 475.2488 val_acc: 0.7697 loss: 104.4993
+best:  0.7835 
+current:  0.7697
+[ epoch 37/100 ]-> train_acc: 0.8067 loss: 473.5593 val_acc: 0.7550 loss: 109.5282
+best:  0.7835 
+current:  0.755
+[ epoch 38/100 ]-> train_acc: 0.8132 loss: 469.6859 val_acc: 0.7783 loss: 101.7917
+best:  0.7835 
+current:  0.7783
+[ epoch 39/100 ]-> train_acc: 0.8102 loss: 468.9612 val_acc: 0.7466 loss: 110.5753
+best:  0.7835 
+current:  0.7466
+[ epoch 40/100 ]-> train_acc: 0.8116 loss: 467.8317 val_acc: 0.7707 loss: 104.0029
+best:  0.7835 
+current:  0.7707
+[ epoch 41/100 ]-> train_acc: 0.8142 loss: 466.0557 val_acc: 0.7814 loss: 103.9670
+best:  0.7835 
+current:  0.7814
+[ epoch 42/100 ]-> train_acc: 0.8168 loss: 465.5649 val_acc: 0.7949 loss: 98.8872
+best:  0.7835 
+current:  0.7949
+save checkpoint
+[ epoch 43/100 ]-> train_acc: 0.8155 loss: 463.8724 val_acc: 0.7572 loss: 109.8064
+best:  0.7949 
+current:  0.7572
+[ epoch 44/100 ]-> train_acc: 0.8163 loss: 462.5312 val_acc: 0.7871 loss: 99.8253
+best:  0.7949 
+current:  0.7871
+[ epoch 45/100 ]-> train_acc: 0.8195 loss: 460.9542 val_acc: 0.7636 loss: 106.9869
+best:  0.7949 
+current:  0.7636
+[ epoch 46/100 ]-> train_acc: 0.8228 loss: 458.1427 val_acc: 0.7377 loss: 113.2166
+best:  0.7949 
+current:  0.7377
+[ epoch 47/100 ]-> train_acc: 0.8234 loss: 456.9452 val_acc: 0.7825 loss: 101.3862
+best:  0.7949 
+current:  0.7825
+[ epoch 48/100 ]-> train_acc: 0.8234 loss: 456.9153 val_acc: 0.7801 loss: 104.2438
+best:  0.7949 
+current:  0.7801
+[ epoch 49/100 ]-> train_acc: 0.8222 loss: 456.2137 val_acc: 0.7771 loss: 102.3157
+best:  0.7949 
+current:  0.7771
+[ epoch 50/100 ]-> train_acc: 0.8248 loss: 455.0737 val_acc: 0.7409 loss: 112.2338
+best:  0.7949 
+current:  0.7409
+[ epoch 51/100 ]-> train_acc: 0.8679 loss: 406.4194 val_acc: 0.8485 loss: 86.5599
+best:  0.7949 
+current:  0.8485
+save checkpoint
+[ epoch 52/100 ]-> train_acc: 0.8826 loss: 389.3313 val_acc: 0.8476 loss: 86.5624
+best:  0.8485 
+current:  0.8476
+[ epoch 53/100 ]-> train_acc: 0.8895 loss: 383.9271 val_acc: 0.8465 loss: 86.9290
+best:  0.8485 
+current:  0.8465
+[ epoch 54/100 ]-> train_acc: 0.8931 loss: 378.6230 val_acc: 0.8555 loss: 85.2535
+best:  0.8485 
+current:  0.8555
+save checkpoint
+[ epoch 55/100 ]-> train_acc: 0.8957 loss: 376.1220 val_acc: 0.8486 loss: 86.5506
+best:  0.8555 
+current:  0.8486
+[ epoch 56/100 ]-> train_acc: 0.8983 loss: 373.4185 val_acc: 0.8518 loss: 86.1265
+best:  0.8555 
+current:  0.8518
+[ epoch 57/100 ]-> train_acc: 0.9005 loss: 370.1359 val_acc: 0.8541 loss: 86.0100
+best:  0.8555 
+current:  0.8541
+[ epoch 58/100 ]-> train_acc: 0.9015 loss: 368.8596 val_acc: 0.8481 loss: 87.0645
+best:  0.8555 
+current:  0.8481
+[ epoch 59/100 ]-> train_acc: 0.9050 loss: 366.2739 val_acc: 0.8546 loss: 85.7538
+best:  0.8555 
+current:  0.8546
+[ epoch 60/100 ]-> train_acc: 0.9051 loss: 365.9448 val_acc: 0.8527 loss: 85.8467
+best:  0.8555 
+current:  0.8527
+[ epoch 61/100 ]-> train_acc: 0.9075 loss: 363.2655 val_acc: 0.8508 loss: 86.1958
+best:  0.8555 
+current:  0.8508
+[ epoch 62/100 ]-> train_acc: 0.9092 loss: 361.5661 val_acc: 0.8516 loss: 86.4201
+best:  0.8555 
+current:  0.8516
+[ epoch 63/100 ]-> train_acc: 0.9107 loss: 359.4453 val_acc: 0.8521 loss: 86.5277
+best:  0.8555 
+current:  0.8521
+[ epoch 64/100 ]-> train_acc: 0.9125 loss: 356.9106 val_acc: 0.8437 loss: 87.8558
+best:  0.8555 
+current:  0.8437
+[ epoch 65/100 ]-> train_acc: 0.9112 loss: 358.2492 val_acc: 0.8419 loss: 89.7467
+best:  0.8555 
+current:  0.8419
+[ epoch 66/100 ]-> train_acc: 0.9118 loss: 356.5729 val_acc: 0.8457 loss: 88.0118
+best:  0.8555 
+current:  0.8457
+[ epoch 67/100 ]-> train_acc: 0.9133 loss: 355.7296 val_acc: 0.8483 loss: 87.4592
+best:  0.8555 
+current:  0.8483
+[ epoch 68/100 ]-> train_acc: 0.9147 loss: 354.1171 val_acc: 0.8520 loss: 87.0488
+best:  0.8555 
+current:  0.852
+[ epoch 69/100 ]-> train_acc: 0.9166 loss: 352.9976 val_acc: 0.8482 loss: 86.6420
+best:  0.8555 
+current:  0.8482
+[ epoch 70/100 ]-> train_acc: 0.9166 loss: 351.6851 val_acc: 0.8522 loss: 87.0871
+best:  0.8555 
+current:  0.8522
+[ epoch 71/100 ]-> train_acc: 0.9178 loss: 351.3304 val_acc: 0.8472 loss: 87.9137
+best:  0.8555 
+current:  0.8472
+[ epoch 72/100 ]-> train_acc: 0.9208 loss: 348.4565 val_acc: 0.8525 loss: 87.1648
+best:  0.8555 
+current:  0.8525
+[ epoch 73/100 ]-> train_acc: 0.9214 loss: 347.9023 val_acc: 0.8550 loss: 86.5991
+best:  0.8555 
+current:  0.855
+[ epoch 74/100 ]-> train_acc: 0.9204 loss: 348.0501 val_acc: 0.8493 loss: 88.2598
+best:  0.8555 
+current:  0.8493
+[ epoch 75/100 ]-> train_acc: 0.9207 loss: 347.3539 val_acc: 0.8499 loss: 87.8460
+best:  0.8555 
+current:  0.8499
+[ epoch 76/100 ]-> train_acc: 0.9288 loss: 339.0407 val_acc: 0.8599 loss: 85.6354
+best:  0.8555 
+current:  0.8599
+save checkpoint
+[ epoch 77/100 ]-> train_acc: 0.9337 loss: 334.8646 val_acc: 0.8607 loss: 85.2926
+best:  0.8599 
+current:  0.8607
+save checkpoint
+[ epoch 78/100 ]-> train_acc: 0.9335 loss: 334.1703 val_acc: 0.8616 loss: 85.4382
+best:  0.8607 
+current:  0.8616
+save checkpoint
+[ epoch 79/100 ]-> train_acc: 0.9331 loss: 334.4339 val_acc: 0.8598 loss: 85.6736
+best:  0.8616 
+current:  0.8598
+[ epoch 80/100 ]-> train_acc: 0.9344 loss: 333.1745 val_acc: 0.8610 loss: 85.4855
+best:  0.8616 
+current:  0.861
+[ epoch 81/100 ]-> train_acc: 0.9342 loss: 333.4752 val_acc: 0.8606 loss: 85.4604
+best:  0.8616 
+current:  0.8606
+[ epoch 82/100 ]-> train_acc: 0.9349 loss: 332.0692 val_acc: 0.8608 loss: 85.6272
+best:  0.8616 
+current:  0.8608
+[ epoch 83/100 ]-> train_acc: 0.9376 loss: 330.4992 val_acc: 0.8602 loss: 85.5752
+best:  0.8616 
+current:  0.8602
+[ epoch 84/100 ]-> train_acc: 0.9370 loss: 331.1320 val_acc: 0.8609 loss: 85.5273
+best:  0.8616 
+current:  0.8609
+[ epoch 85/100 ]-> train_acc: 0.9375 loss: 330.9625 val_acc: 0.8608 loss: 85.6601
+best:  0.8616 
+current:  0.8608
+[ epoch 86/100 ]-> train_acc: 0.9369 loss: 331.2990 val_acc: 0.8598 loss: 85.9730
+best:  0.8616 
+current:  0.8598
+[ epoch 87/100 ]-> train_acc: 0.9368 loss: 330.6838 val_acc: 0.8616 loss: 85.7235
+best:  0.8616 
+current:  0.8616
+save checkpoint
+[ epoch 88/100 ]-> train_acc: 0.9367 loss: 330.7879 val_acc: 0.8616 loss: 85.9292
+best:  0.8616 
+current:  0.8616
+save checkpoint
+[ epoch 89/100 ]-> train_acc: 0.9382 loss: 329.6469 val_acc: 0.8611 loss: 85.9068
+best:  0.8616 
+current:  0.8611
+[ epoch 90/100 ]-> train_acc: 0.9372 loss: 330.9675 val_acc: 0.8610 loss: 86.0126
+best:  0.8616 
+current:  0.861
+[ epoch 91/100 ]-> train_acc: 0.9383 loss: 328.9625 val_acc: 0.8607 loss: 85.8951
+best:  0.8616 
+current:  0.8607
+[ epoch 92/100 ]-> train_acc: 0.9372 loss: 330.1268 val_acc: 0.8608 loss: 85.6396
+best:  0.8616 
+current:  0.8608
+[ epoch 93/100 ]-> train_acc: 0.9383 loss: 329.7155 val_acc: 0.8607 loss: 85.5082
+best:  0.8616 
+current:  0.8607
+[ epoch 94/100 ]-> train_acc: 0.9386 loss: 329.2054 val_acc: 0.8615 loss: 85.8471
+best:  0.8616 
+current:  0.8615
+[ epoch 95/100 ]-> train_acc: 0.9368 loss: 329.6343 val_acc: 0.8628 loss: 85.7164
+best:  0.8616 
+current:  0.8628
+save checkpoint
+[ epoch 96/100 ]-> train_acc: 0.9400 loss: 327.5005 val_acc: 0.8610 loss: 85.8247
+best:  0.8628 
+current:  0.861
+[ epoch 97/100 ]-> train_acc: 0.9390 loss: 328.4993 val_acc: 0.8618 loss: 85.8593
+best:  0.8628 
+current:  0.8618
+[ epoch 98/100 ]-> train_acc: 0.9385 loss: 327.9356 val_acc: 0.8604 loss: 86.0391
+best:  0.8628 
+current:  0.8604
+[ epoch 99/100 ]-> train_acc: 0.9392 loss: 328.0107 val_acc: 0.8597 loss: 86.2333
+best:  0.8628 
+current:  0.8597
+[ epoch 100/100 ]-> train_acc: 0.9407 loss: 326.2343 val_acc: 0.8607 loss: 86.0130
+best:  0.8628 
+current:  0.8607
+48291.95084166527
+
+BA:
+[ epoch 1/100 ]-> train_acc: 0.3986 loss: 899.1561 val_acc: 0.2828 loss: 270.5628
+best:  0.0 
+current:  0.2828
+save checkpoint
+[ epoch 2/100 ]-> train_acc: 0.5202 loss: 776.4330 val_acc: 0.5212 loss: 159.2757
+best:  0.2828 
+current:  0.5212
+save checkpoint
+[ epoch 3/100 ]-> train_acc: 0.5731 loss: 727.5376 val_acc: 0.5710 loss: 147.7268
+best:  0.5212 
+current:  0.571
+save checkpoint
+[ epoch 4/100 ]-> train_acc: 0.6049 loss: 692.3716 val_acc: 0.5577 loss: 157.6089
+best:  0.571 
+current:  0.5577
+[ epoch 5/100 ]-> train_acc: 0.6470 loss: 656.4244 val_acc: 0.6184 loss: 141.7449
+best:  0.571 
+current:  0.6184
+save checkpoint
+[ epoch 6/100 ]-> train_acc: 0.6719 loss: 629.8630 val_acc: 0.6547 loss: 130.8115
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+best:  0.6184 
+current:  0.6547
+save checkpoint
+[ epoch 7/100 ]-> train_acc: 0.6921 loss: 609.9924 val_acc: 0.6063 loss: 143.1688
+best:  0.6547 
+current:  0.6063
+[ epoch 8/100 ]-> train_acc: 0.7076 loss: 591.2299 val_acc: 0.6963 loss: 122.6751
+best:  0.6547 
+current:  0.6963
+save checkpoint
+[ epoch 9/100 ]-> train_acc: 0.7222 loss: 578.5156 val_acc: 0.7088 loss: 119.4888
+best:  0.6963 
+current:  0.7088
+save checkpoint
+[ epoch 10/100 ]-> train_acc: 0.7327 loss: 566.8330 val_acc: 0.6519 loss: 130.3287
+best:  0.7088 
+current:  0.6519
+[ epoch 11/100 ]-> train_acc: 0.7417 loss: 556.5343 val_acc: 0.7061 loss: 119.4435
+best:  0.7088 
+current:  0.7061
+[ epoch 12/100 ]-> train_acc: 0.7478 loss: 548.1699 val_acc: 0.7026 loss: 122.1383
+best:  0.7088 
+current:  0.7026
+[ epoch 13/100 ]-> train_acc: 0.7565 loss: 538.4349 val_acc: 0.7253 loss: 122.6619
+best:  0.7088 
+current:  0.7253
+save checkpoint
+[ epoch 14/100 ]-> train_acc: 0.7621 loss: 532.0372 val_acc: 0.7166 loss: 118.9550
+best:  0.7253 
+current:  0.7166
+[ epoch 15/100 ]-> train_acc: 0.7662 loss: 527.2520 val_acc: 0.7135 loss: 121.7257
+best:  0.7253 
+current:  0.7135
+[ epoch 16/100 ]-> train_acc: 0.7719 loss: 520.4030 val_acc: 0.7595 loss: 107.7582
+best:  0.7253 
+current:  0.7595
+save checkpoint
+[ epoch 17/100 ]-> train_acc: 0.7754 loss: 515.3091 val_acc: 0.7694 loss: 105.1468
+best:  0.7595 
+current:  0.7694
+save checkpoint
+[ epoch 18/100 ]-> train_acc: 0.7827 loss: 508.9635 val_acc: 0.7357 loss: 114.3245
+best:  0.7694 
+current:  0.7357
+[ epoch 19/100 ]-> train_acc: 0.7867 loss: 504.3376 val_acc: 0.7486 loss: 108.7100
+best:  0.7694 
+current:  0.7486
+[ epoch 20/100 ]-> train_acc: 0.7891 loss: 501.5325 val_acc: 0.7789 loss: 103.4258
+best:  0.7694 
+current:  0.7789
+save checkpoint
+[ epoch 21/100 ]-> train_acc: 0.7935 loss: 498.3032 val_acc: 0.7601 loss: 108.2274
+best:  0.7789 
+current:  0.7601
+[ epoch 22/100 ]-> train_acc: 0.7962 loss: 494.2079 val_acc: 0.7643 loss: 105.7214
+best:  0.7789 
+current:  0.7643
+[ epoch 23/100 ]-> train_acc: 0.7976 loss: 490.1477 val_acc: 0.7738 loss: 103.9520
+best:  0.7789 
+current:  0.7738
+[ epoch 24/100 ]-> train_acc: 0.8008 loss: 488.7000 val_acc: 0.7534 loss: 107.6326
+best:  0.7789 
+current:  0.7534
+[ epoch 25/100 ]-> train_acc: 0.8043 loss: 482.9625 val_acc: 0.7688 loss: 107.6239
+best:  0.7789 
+current:  0.7688
+[ epoch 26/100 ]-> train_acc: 0.8071 loss: 481.4264 val_acc: 0.7192 loss: 119.8838
+best:  0.7789 
+current:  0.7192
+[ epoch 27/100 ]-> train_acc: 0.8056 loss: 480.9429 val_acc: 0.7692 loss: 105.1783
+best:  0.7789 
+current:  0.7692
+[ epoch 28/100 ]-> train_acc: 0.8111 loss: 477.2339 val_acc: 0.7568 loss: 107.5523
+best:  0.7789 
+current:  0.7568
+[ epoch 29/100 ]-> train_acc: 0.8094 loss: 476.3868 val_acc: 0.7891 loss: 103.7356
+best:  0.7789 
+current:  0.7891
+save checkpoint
+[ epoch 30/100 ]-> train_acc: 0.8127 loss: 472.8936 val_acc: 0.7712 loss: 106.0615
+best:  0.7891 
+current:  0.7712
+[ epoch 31/100 ]-> train_acc: 0.8137 loss: 471.4234 val_acc: 0.7812 loss: 103.4394
+best:  0.7891 
+current:  0.7812
+[ epoch 32/100 ]-> train_acc: 0.8144 loss: 469.5144 val_acc: 0.7528 loss: 110.0787
+best:  0.7891 
+current:  0.7528
+[ epoch 33/100 ]-> train_acc: 0.8174 loss: 466.4387 val_acc: 0.7512 loss: 110.5962
+best:  0.7891 
+current:  0.7512
+[ epoch 34/100 ]-> train_acc: 0.8190 loss: 465.2326 val_acc: 0.7834 loss: 103.2243
+best:  0.7891 
+current:  0.7834
+[ epoch 35/100 ]-> train_acc: 0.8193 loss: 464.8497 val_acc: 0.7609 loss: 108.5286
+best:  0.7891 
+current:  0.7609
+[ epoch 36/100 ]-> train_acc: 0.8208 loss: 463.8285 val_acc: 0.7911 loss: 99.8863
+best:  0.7891 
+current:  0.7911
+save checkpoint
+[ epoch 37/100 ]-> train_acc: 0.8225 loss: 461.5568 val_acc: 0.7691 loss: 105.9072
+best:  0.7911 
+current:  0.7691
+[ epoch 38/100 ]-> train_acc: 0.8234 loss: 460.0138 val_acc: 0.7716 loss: 105.9681
+best:  0.7911 
+current:  0.7716
+[ epoch 39/100 ]-> train_acc: 0.8258 loss: 457.9193 val_acc: 0.7924 loss: 101.7163
+best:  0.7911 
+current:  0.7924
+save checkpoint
+[ epoch 40/100 ]-> train_acc: 0.8267 loss: 457.7589 val_acc: 0.7479 loss: 112.8195
+best:  0.7924 
+current:  0.7479
+[ epoch 41/100 ]-> train_acc: 0.8262 loss: 456.2682 val_acc: 0.7853 loss: 100.7813
+best:  0.7924 
+current:  0.7853
+[ epoch 42/100 ]-> train_acc: 0.8288 loss: 454.1365 val_acc: 0.7899 loss: 102.4771
+best:  0.7924 
+current:  0.7899
+[ epoch 43/100 ]-> train_acc: 0.8300 loss: 454.0303 val_acc: 0.7898 loss: 104.0884
+best:  0.7924 
+current:  0.7898
+[ epoch 44/100 ]-> train_acc: 0.8303 loss: 452.7345 val_acc: 0.7741 loss: 107.2737
+best:  0.7924 
+current:  0.7741
+[ epoch 45/100 ]-> train_acc: 0.8305 loss: 452.3804 val_acc: 0.7818 loss: 107.6485
+best:  0.7924 
+current:  0.7818
+[ epoch 46/100 ]-> train_acc: 0.8320 loss: 450.0730 val_acc: 0.7860 loss: 101.7863
+best:  0.7924 
+current:  0.786
+[ epoch 47/100 ]-> train_acc: 0.8330 loss: 448.9211 val_acc: 0.7979 loss: 100.2483
+best:  0.7924 
+current:  0.7979
+save checkpoint
+[ epoch 48/100 ]-> train_acc: 0.8337 loss: 449.2281 val_acc: 0.8014 loss: 96.6413
+best:  0.7979 
+current:  0.8014
+save checkpoint
+[ epoch 49/100 ]-> train_acc: 0.8318 loss: 449.5275 val_acc: 0.7788 loss: 106.0337
+best:  0.8014 
+current:  0.7788
+[ epoch 50/100 ]-> train_acc: 0.8351 loss: 446.1272 val_acc: 0.7714 loss: 108.0907
+best:  0.8014 
+current:  0.7714
+[ epoch 51/100 ]-> train_acc: 0.8776 loss: 400.0573 val_acc: 0.8455 loss: 87.4302
+best:  0.8014 
+current:  0.8455
+save checkpoint
+[ epoch 52/100 ]-> train_acc: 0.8932 loss: 383.2357 val_acc: 0.8526 loss: 86.5619
+best:  0.8455 
+current:  0.8526
+save checkpoint
+[ epoch 53/100 ]-> train_acc: 0.8971 loss: 378.3186 val_acc: 0.8523 loss: 86.4992
+best:  0.8526 
+current:  0.8523
+[ epoch 54/100 ]-> train_acc: 0.9017 loss: 374.1711 val_acc: 0.8553 loss: 85.7115
+best:  0.8526 
+current:  0.8553
+save checkpoint
+[ epoch 55/100 ]-> train_acc: 0.9029 loss: 371.9101 val_acc: 0.8583 loss: 86.0188
+best:  0.8553 
+current:  0.8583
+save checkpoint
+[ epoch 56/100 ]-> train_acc: 0.9052 loss: 368.2683 val_acc: 0.8515 loss: 86.5352
+best:  0.8583 
+current:  0.8515
+[ epoch 57/100 ]-> train_acc: 0.9086 loss: 365.9520 val_acc: 0.8528 loss: 87.1534
+best:  0.8583 
+current:  0.8528
+[ epoch 58/100 ]-> train_acc: 0.9091 loss: 363.7020 val_acc: 0.8545 loss: 86.9132
+best:  0.8583 
+current:  0.8545
+[ epoch 59/100 ]-> train_acc: 0.9100 loss: 363.0471 val_acc: 0.8530 loss: 87.5461
+best:  0.8583 
+current:  0.853
+[ epoch 60/100 ]-> train_acc: 0.9146 loss: 359.2507 val_acc: 0.8585 loss: 86.9588
+best:  0.8583 
+current:  0.8585
+save checkpoint
+[ epoch 61/100 ]-> train_acc: 0.9160 loss: 358.1943 val_acc: 0.8583 loss: 85.9200
+best:  0.8585 
+current:  0.8583
+[ epoch 62/100 ]-> train_acc: 0.9175 loss: 355.8412 val_acc: 0.8568 loss: 85.8781
+best:  0.8585 
+current:  0.8568
+[ epoch 63/100 ]-> train_acc: 0.9186 loss: 355.0071 val_acc: 0.8570 loss: 86.8683
+best:  0.8585 
+current:  0.857
+[ epoch 64/100 ]-> train_acc: 0.9181 loss: 354.6681 val_acc: 0.8582 loss: 86.1453
+best:  0.8585 
+current:  0.8582
+[ epoch 65/100 ]-> train_acc: 0.9215 loss: 351.8654 val_acc: 0.8559 loss: 86.3109
+best:  0.8585 
+current:  0.8559
+[ epoch 66/100 ]-> train_acc: 0.9205 loss: 352.5040 val_acc: 0.8522 loss: 87.5269
+best:  0.8585 
+current:  0.8522
+[ epoch 67/100 ]-> train_acc: 0.9235 loss: 349.3167 val_acc: 0.8557 loss: 86.3383
+best:  0.8585 
+current:  0.8557
+[ epoch 68/100 ]-> train_acc: 0.9238 loss: 349.1203 val_acc: 0.8524 loss: 87.2127
+best:  0.8585 
+current:  0.8524
+[ epoch 69/100 ]-> train_acc: 0.9240 loss: 348.9272 val_acc: 0.8554 loss: 86.7444
+best:  0.8585 
+current:  0.8554
+[ epoch 70/100 ]-> train_acc: 0.9249 loss: 346.6035 val_acc: 0.8551 loss: 87.6876
+best:  0.8585 
+current:  0.8551
+[ epoch 71/100 ]-> train_acc: 0.9269 loss: 346.1736 val_acc: 0.8586 loss: 86.9688
+best:  0.8585 
+current:  0.8586
+save checkpoint
+[ epoch 72/100 ]-> train_acc: 0.9262 loss: 345.7936 val_acc: 0.8518 loss: 88.1112
+best:  0.8586 
+current:  0.8518
+[ epoch 73/100 ]-> train_acc: 0.9261 loss: 345.6241 val_acc: 0.8576 loss: 86.5926
+best:  0.8586 
+current:  0.8576
+[ epoch 74/100 ]-> train_acc: 0.9285 loss: 344.1057 val_acc: 0.8581 loss: 86.0120
+best:  0.8586 
+current:  0.8581
+[ epoch 75/100 ]-> train_acc: 0.9292 loss: 342.0081 val_acc: 0.8553 loss: 88.0931
+best:  0.8586 
+current:  0.8553
+[ epoch 76/100 ]-> train_acc: 0.9364 loss: 335.3906 val_acc: 0.8628 loss: 85.2316
+best:  0.8586 
+current:  0.8628
+save checkpoint
+[ epoch 77/100 ]-> train_acc: 0.9392 loss: 332.4824 val_acc: 0.8612 loss: 85.0587
+best:  0.8628 
+current:  0.8612
+[ epoch 78/100 ]-> train_acc: 0.9401 loss: 331.8039 val_acc: 0.8620 loss: 84.9628
+best:  0.8628 
+current:  0.862
+[ epoch 79/100 ]-> train_acc: 0.9404 loss: 331.1255 val_acc: 0.8638 loss: 84.8701
+best:  0.8628 
+current:  0.8638
+current:  0.862
+[ epoch 80/100 ]-> train_acc: 0.9407 loss: 330.7412 val_acc: 0.8614 loss: 84.9512
+best:  0.8628 
+current:  0.8638
+current:  0.862
+[ epoch 81/100 ]-> train_acc: 0.9409 loss: 330.5343 val_acc: 0.8634 loss: 84.8456
+best:  0.8628 
+current:  0.8638
+current:  0.862
+[ epoch 82/100 ]-> train_acc: 0.9411 loss: 330.1071 val_acc: 0.8611 loss: 84.7462
+best:  0.8628 
+current:  0.8638
+current:  0.862
+[ epoch 83/100 ]-> train_acc: 0.9415 loss: 329.8752 val_acc: 0.8594 loss: 84.1523
+best:  0.8628 
+current:  0.8638
+current:  0.862
+[ epoch 84/100 ]-> train_acc: 0.9420 loss: 329.5420 val_acc: 0.8617 loss: 84.5743
+best:  0.8628 
+current:  0.8638
+current:  0.862
+[ epoch 85/100 ]-> train_acc: 0.9423 loss: 329.1255 val_acc: 0.8626 loss: 84.7732
+best:  0.8628 
+current:  0.8638
+save checkpoint
+current:  0.8626
+[ epoch 86/100 ]-> train_acc: 0.9425 loss: 328.9911 val_acc: 0.8629 loss: 85.0571
+best:  0.8641 
+current:  0.8629
+[ epoch 87/100 ]-> train_acc: 0.9428 loss: 328.6861 val_acc: 0.8628 loss: 85.3107
+best:  0.8641 
+current:  0.8628
+[ epoch 88/100 ]-> train_acc: 0.9447 loss: 327.7735 val_acc: 0.8627 loss: 85.3380
+best:  0.8641 
+current:  0.8627
+[ epoch 89/100 ]-> train_acc: 0.9437 loss: 328.2418 val_acc: 0.8643 loss: 85.1735
+best:  0.8641 
+current:  0.8643
+save checkpoint
+[ epoch 90/100 ]-> train_acc: 0.9435 loss: 327.7256 val_acc: 0.8630 loss: 85.3359
+best:  0.8643 
+current:  0.863
+[ epoch 91/100 ]-> train_acc: 0.9445 loss: 326.8857 val_acc: 0.8630 loss: 85.4174
+best:  0.8643 
+current:  0.863
+[ epoch 92/100 ]-> train_acc: 0.9443 loss: 326.4301 val_acc: 0.8629 loss: 85.0967
+best:  0.8643 
+current:  0.8629
+[ epoch 93/100 ]-> train_acc: 0.9440 loss: 326.9857 val_acc: 0.8623 loss: 85.3906
+best:  0.8643 
+current:  0.8623
+[ epoch 94/100 ]-> train_acc: 0.9434 loss: 327.5365 val_acc: 0.8625 loss: 85.5350
+best:  0.8643 
+current:  0.8625
+[ epoch 95/100 ]-> train_acc: 0.9458 loss: 325.7314 val_acc: 0.8644 loss: 85.2803
+best:  0.8643 
+current:  0.8644
+save checkpoint
+[ epoch 96/100 ]-> train_acc: 0.9441 loss: 326.3345 val_acc: 0.8632 loss: 85.2061
+best:  0.8644 
+current:  0.8632
+[ epoch 97/100 ]-> train_acc: 0.9449 loss: 326.2375 val_acc: 0.8624 loss: 85.2360
+best:  0.8644 
+current:  0.8624
+[ epoch 98/100 ]-> train_acc: 0.9444 loss: 325.9979 val_acc: 0.8639 loss: 85.4419
+best:  0.8644 
+current:  0.8639
+[ epoch 99/100 ]-> train_acc: 0.9464 loss: 325.0531 val_acc: 0.8643 loss: 85.5036
+best:  0.8644 
+current:  0.8643
+[ epoch 100/100 ]-> train_acc: 0.9455 loss: 325.5154 val_acc: 0.8646 loss: 85.5170
+best:  0.8644 
+current:  0.8646
+save checkpoint
+47349.33334302902

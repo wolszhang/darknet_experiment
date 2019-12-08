@@ -1,7 +1,17 @@
-class = 10
-image_shape = 28
---class_num 10 
+Class=10
+Channel=78
+Dropout=0.2
+Learning_rate=0.1
+Momentum=0.9
+Weight_decay=0.0001
+Train_sz=50000
+Val_sz=10000
+Batch_size=100
+Epochs=100
+Checkpoint_dir="./checkpoint"	
+Checkpoint_name="randwire_mnist"
+Train_dir="./dataset/mnist/train.tfrecord"
+Tal_dir="./dataset/mnist/test.tfrecord"
+# Train with ER
+python.exe train.py --class_num $Class --image_shape 32 32 3 --channel_count $Channel --graph_model ws --graph_param 32 4 0.75 --dropout_rate $Dropout --learning_rate $Learning_rate --momentum $Momentum --weight_decay ${Weight_decay} --train_set_size $Train_sz --val_set_size $Val_sz --batch_size $Batch_size --epochs $Epochs --checkpoint_dir ${Checkpoint_dir} --checkpoint_name ${Checkpoint_name} --train_record_dir $Train_dir --val_record_dir $Val_dir 
 
---image_shape 28 28 1 --stages 4 --channel_count 78 --graph_model ws --graph_param 32 4 0.75 --dropout_rate 0.2 --learning_rate 0.1 --momentum 0.9 --weight_decay 0.0001 --train_set_size 50000 --val_set_size 10000 --batch_size 100 --epochs 100 --checkpoint_dir ./checkpoint --checkpoint_name randwire_mnist --train_record_dir ./dataset/mnist/train.tfrecord --val_record_dir ./dataset/mnist/test.tfrecord
-
-python train.py 
