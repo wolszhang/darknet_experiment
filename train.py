@@ -236,7 +236,6 @@ def args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--class_num', type=int, default=10, help='number of class')  # number of class
     parser.add_argument('--image_shape', type=int, nargs='+', default=[32, 32, 3], help='shape of image - height, width, channel')  # shape of image - height, width, channel
-    parser.add_argument('--stages', type=int, default=4, help='stage number of randwire')  # number of dense blocks
     parser.add_argument('--channel_count', type=int, default=78)
     parser.add_argument('--graph_model', type=str, default='ws')
     parser.add_argument('--graph_param', type=float, nargs='+', default=[32, 4, 0.75])
@@ -279,14 +278,14 @@ def main(args):
                                                 [args.learning_rate, 0.1 * args.learning_rate,
                                                  0.01 * args.learning_rate])
     # output logit from NN
-    output = my_small_regime(images, args.stages, args.channel_count, args.class_num, args.dropout_rate,
+    output = my_small_regime(images, 4, args.channel_count, args.class_num, args.dropout_rate,
                                 args.graph_model, args.graph_param, args.checkpoint_dir + '/' + 'graphs', False, training)
-    # output = RandWire.my_regime(images, args.stages, args.channel_count, args.class_num, args.dropout_rate,
+    # output = RandWire.my_regime(images, 4, args.channel_count, args.class_num, args.dropout_rate,
     #                             args.graph_model, args.graph_param, args.checkpoint_dir + '/' + 'graphs', False, training)
-    # output = RandWire.small_regime(images, args.stages, args.channel_count, args.class_num, args.dropout_rate,
+    # output = RandWire.small_regime(images, 4, args.channel_count, args.class_num, args.dropout_rate,
     #                             args.graph_model, args.graph_param, args.checkpoint_dir + '/' + 'graphs', False,
     #                             training)
-    # output = RandWire.regular_regime(images, args.stages, args.channel_count, args.class_num, args.dropout_rate,
+    # output = RandWire.regular_regime(images, 4, args.channel_count, args.class_num, args.dropout_rate,
     #                             args.graph_model, args.graph_param, args.checkpoint_dir + '/' + 'graphs', training)
 
     #loss and optimizer
